@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello world!
 
-<!--
-**tmoux/tmoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal site: [https://timothymou.com/](https://timothymou.com/).
 
-Here are some ideas to get you started:
+Stuff I'm currently into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Kleene algebras and KATs
+* Proof assistants
+* Formal verification
+* Programming contests
+* Managing my entire life with org-mode
+
+Right now, I'm preparing for the [ICPC World Finals](https://worldfinals.icpc.global/#/) in Egypt and learning the basics of homotopy type theory.
+
+The best way to reach me is by [email](mailto:timothymou7@gmail.com) or on [discord](https://discordapp.com/users/463814593450475545).
