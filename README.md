@@ -2,6 +2,8 @@
 
 Personal site: [https://timothymou.com/](https://timothymou.com/).
 
+I currently work as a software engineer at [Amazon](https://www.amazon.com/).
+
 Stuff I'm currently into:
 
 * Proof assistants
